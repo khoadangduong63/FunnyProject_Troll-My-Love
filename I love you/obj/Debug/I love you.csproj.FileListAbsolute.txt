@@ -1,0 +1,10 @@
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I love you.csprojAssemblyReference.cache
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I_love_you.Form1.resources
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I_love_you.Properties.Resources.resources
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I love you.csproj.GenerateResource.cache
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I love you.csproj.CoreCompileInputs.cache
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\bin\Debug\I love you.exe.config
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\bin\Debug\I love you.exe
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\bin\Debug\I love you.pdb
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I love you.exe
+D:\2_UNIVERSITY OF SCIENCE\1_Code\0.1_Online Study VNS\2_Object Oriented Programming\Lap trinh CSharp Winform\I love you\obj\Debug\I love you.pdb
